@@ -1,5 +1,7 @@
 #version 330
 
+precision highp float;
+
 uniform float SCREEN_WIDTH;
 uniform float zoom;
 uniform float zoomX;
